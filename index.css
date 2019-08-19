@@ -1,0 +1,25 @@
+body {
+    background: #FFBAAA;
+    margin: 0;
+    padding: 2rem 0;
+    width: 100%;
+    font-family: 'Inconsolata', monospace;
+    text-align: center;
+}
+
+#hour{
+    color: red
+}
+
+#minutes{
+    color: green
+}
+
+#seconds{
+    color: yellow
+}
+
+div{
+    display: inline;
+    font-size: 10em
+}
